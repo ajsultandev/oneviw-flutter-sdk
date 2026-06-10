@@ -1,0 +1,23 @@
+# Dart / Flutter
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE / tooling
+.idea/
+.vscode/
+*.iml
+plans/
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project docs kept out of the repo
+CHANGELOG.md
